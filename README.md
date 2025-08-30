@@ -21,6 +21,6 @@ This project implements an agentic joke-generating bot using LangGraph and the G
 ## Setup and Installation
 
     Clone the repository:
-    pip install -r requiremnts.py
+    pip install -r requiremnts.txt
     python langgraph_jokesbot.py
     
