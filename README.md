@@ -1,4 +1,4 @@
- #Joke Bot with Writer-Critic Loop
+ # Joke Bot with Writer-Critic Loop
 
 This project implements an agentic joke-generating bot using LangGraph and the Groq API. The bot features a writer-critic loop where a Large Language Model (LLM) generates jokes (Writer) and another LLM evaluates them (Critic) before presenting them to the user. Rejected jokes are sent back to the Writer for revision, with a limit on retries. The bot also supports multiple languages and keeps track of generated jokes to avoid repetition.
 
